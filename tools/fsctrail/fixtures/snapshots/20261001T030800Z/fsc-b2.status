@@ -1,0 +1,8 @@
+FSCAdmin status report
+FSC endpoint: fsc-b2.example:4544
+Response:
+FSCId: FSCB2, Site: Plant-B
+State: running
+Current file connections: 2
+Current admin connections: 1
+Running time: 0d00h00m30s

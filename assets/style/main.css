@@ -1,0 +1,21 @@
+.status {
+    font-weight: 400;
+    text-align: center;
+}
+
+.status_ok {
+    color: green;
+}
+
+.status_ko {
+    color: red;
+}   
+
+.host-url{
+    font-size: 0.75em;
+}
+
+.title {
+    margin: 1em auto;
+    text-align: center;
+}

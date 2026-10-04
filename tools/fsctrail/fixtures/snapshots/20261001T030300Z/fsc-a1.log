@@ -1,0 +1,5 @@
+FSCAdmin log report
+FSC endpoint: fsc-a1.example:4544
+Current log file: fsc.log
+2026-10-01T03:03:09Z INFO  cache warmup finished
+2026-10-01T03:03:12Z ERROR pool-1 thread stalled

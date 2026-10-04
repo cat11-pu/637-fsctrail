@@ -1,0 +1,8 @@
+FSCAdmin status report
+FSC endpoint: fsc-a1.example:4544
+Response:
+FSCId: FSCA1, Site: Plant-A
+State: running
+Current file connections: 15
+Current admin connections: 4
+Running time: 0d05h04m00s

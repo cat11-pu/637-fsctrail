@@ -1,0 +1,5 @@
+FSCAdmin log report
+FSC endpoint: fsc-b2.example:4544
+Remote call failed
+java.net.ConnectException: Connection refused: connect
+	at com.teamcenter.fms.servercache.fscadmin.FSCAdmin.main(FSCAdmin.java:118)

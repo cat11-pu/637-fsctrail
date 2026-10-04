@@ -1,0 +1,4 @@
+FSCAdmin log report
+FSC endpoint: fsc-a1.example:4544
+Current log file: fsc.log
+2026-10-01T03:02:02Z INFO  heartbeat ok

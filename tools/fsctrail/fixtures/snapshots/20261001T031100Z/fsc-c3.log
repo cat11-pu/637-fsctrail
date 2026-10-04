@@ -1,0 +1,5 @@
+FSCAdmin log report
+FSC endpoint: fsc-c3.example:4544
+Remote call failed
+java.net.SocketTimeoutException: Read timed out
+	at com.teamcenter.fms.servercache.fscadmin.FSCAdmin.main(FSCAdmin.java:118)

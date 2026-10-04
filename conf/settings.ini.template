@@ -1,0 +1,10 @@
+[server]
+RunMode = debug #debug, release
+Port = 8080 #http port
+ReadTimeout = 60s
+WriteTimeout = 60s
+
+[fsc]
+FscLocation=C:\Siemens\TC116\fsc
+FmsMasterURL=fms1:4544,fms2:4544 #comma separated list
+MaxParallel=4
